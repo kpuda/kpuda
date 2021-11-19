@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, kpuda here 👋 Welcome on my GitHub profile!
+
+I'm constantly expanding my knowledge about programming.
+<h1>For now I'm focusing on:</h1>
+
+<img width="55" alt="portfolio_view" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">  <img width="55" alt="portfolio_view" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg">  <img width="50" alt="portfolio_view" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">  <img width="55" alt="portfolio_view" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
+<h1>Contact me!</h1>
+
+kpuda.contact@gmail.com<br>
+<a href="https://www.linkedin.com/in/krzysztof-puda-aaa5ab1b6/">Linkedin</a>
+<h1>My latest project</h1>
+<a href='https://github.com/kpuda/weatherAPI">weatherAPI</a><br>
+weatherAPI is a project that focuses on creating RESTful web service. A data is fetched by consuming outside API.
+
+
 
 <!--
 **kpuda/kpuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
