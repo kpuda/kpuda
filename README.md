@@ -1,4 +1,4 @@
-### Hi there, kpuda here 👋 Welcome on my GitHub profile!
+### Hi there, I'm Krzysztof 👋 Welcome on my GitHub profile!
 
 I'm constantly expanding my knowledge about programming.
 <h1>For now I'm focusing on:</h1>
