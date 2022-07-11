@@ -2,6 +2,7 @@
 
 I'm constantly expanding my knowledge about programming.
 <h1>Currently working as Java developer</h1>
+<img width="55" alt="portfolio_view" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">  <img width="55" alt="portfolio_view" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original.svg">  <img width="50" alt="portfolio_view" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">  <img width="55" alt="portfolio_view" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
 <h1>Learning new stuff:</h1>
 
 <img width="55" alt="portfolio_view" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
