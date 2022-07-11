@@ -12,10 +12,6 @@ I'm constantly expanding my knowledge about programming.
 
 kpuda.contact@gmail.com<br>
 <a href="https://www.linkedin.com/in/krzysztof-puda-aaa5ab1b6/">Linkedin</a>
-<h1>My latest project <a href="https://github.com/kpuda/weatherAPI">weatherAPI</a></h1>
-weatherAPI is a project that focuses on creating RESTful web service. A data is fetched by consuming an external API. Service provide standard CRUD operations.
-
-
 
 <!--
 **kpuda/kpuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
